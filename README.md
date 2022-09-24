@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ernomanesh
-- 👀 I’m interested in Mobile App Development,Data analytics, Security
+- 👀 I’m interested in Mobile App Development,Data analytics, Cyber Security
 - 🌱 I’m currently learning Ethical Hacking, Power Bi, Google Cloud Architect
-- 💞️ I’m looking to collaborate on Netwrok Security
+- 💞️ I’m looking to collaborate on Network Security
 - 📫 How to reach me ernestonsase@gmail.com
 
 <!---
